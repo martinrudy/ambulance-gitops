@@ -9,4 +9,4 @@ commonLabels:
   app.kubernetes.io/part-of: wac-hospital
 
 resources:
-- ../../../apps/mrud-ambulance-ufe
+- ../../apps/mrud-ambulance-ufe
