@@ -8,4 +8,4 @@ resources:                  # zoznam manifestov - objektov,
 - webcomponent.yaml
 
 commonLabels:               # značky priradené všetkým objektom tejt aplikácie
-  app.kubernetes.io/component: mrud-ambulance-ufe-123
+  app.kubernetes.io/component: mrud-ambulance-ufe
