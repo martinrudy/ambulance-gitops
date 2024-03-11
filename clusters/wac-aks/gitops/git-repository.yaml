@@ -9,5 +9,3 @@ spec:
      branch: main
  timeout: 1m0s
  url: https://github.com/rudyni/ambulance-gitops
- secretRef:
-    name: repository-pat
