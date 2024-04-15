@@ -11,6 +11,7 @@ commonLabels:
 resources:
 - ../../../apps/mrud-ambulance-ufe
 - ../../../apps/mrud-ambulance-webapi
+- ../../../apps/mongo-express
 
 components:
 - ../../../components/version-developers
